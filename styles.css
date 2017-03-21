@@ -1,0 +1,44 @@
+/* add your CSS here */
+.snakeImage {
+    width: 300px;
+    padding-bottom: 20px;
+}
+
+li {
+    list-style: none;
+    padding: 0;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style:italic;
+}
+
+.page {
+    border:1px solid lightgray;
+    text-align: center;
+    margin: auto;
+    padding-bottom:12px;
+    width:320px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px #ccc;
+}
+
+.info {
+    border:1px solid lightgray;
+    text-align: left;
+    padding-left: 5px;
+    width:300px;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    box-shadow: lightgray;
+}
+
+.title {
+    text-align: left;
+    padding-left: 10px;
+}
